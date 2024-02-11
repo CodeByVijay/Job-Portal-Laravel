@@ -17,7 +17,7 @@
     <!-- Layout styles -->
     <link rel="stylesheet" href="{{ asset('admin/assets/css/style.css') }}">
     <!-- End layout styles -->
-    <link rel="shortcut icon" href="{{ asset('storage/logo_mini.png') }}" />
+    <link rel="shortcut icon" href="{{ asset('storage/admin_logo_mini.png') }}" />
 </head>
 
 <body>
