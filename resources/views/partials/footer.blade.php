@@ -38,8 +38,8 @@
                         <div class="footer-tittle">
                             <h4>Important Link</h4>
                             <ul>
-                                <li><a href="#"> View Project</a></li>
-                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="{{route('contact_us')}}">Contact Us</a></li>
+                                <li><a href="{{route('privacy_policy')}}">Privacy Policy</a></li>
                                 <li><a href="#">Testimonial</a></li>
                                 <li><a href="#">Proparties</a></li>
                                 <li><a href="#">Support</a></li>
